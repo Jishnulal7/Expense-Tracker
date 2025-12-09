@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "614655239975",
+    "project_id": "wallet-97f69",
+    "storage_bucket": "wallet-97f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614655239975:android:81a9e5a5f1564af2fd6b02",
+        "android_client_info": {
+          "package_name": "com.pamaco.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614655239975-1dkgratjpjt75kcmraf1rucg96rjf8ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pamaco.wallet",
+            "certificate_hash": "aed708586ef050e61398f2c9beeb2630f18db446"
+          }
+        },
+        {
+          "client_id": "614655239975-mk04j109ghbd4j6l5n8gljkrgii0u4n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pamaco.wallet",
+            "certificate_hash": "4f848388560d9aa0fd755abbc7041aabdf25484a"
+          }
+        },
+        {
+          "client_id": "614655239975-ctv4vksmp5v6pbe58b68rgc1ajil6cf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQlR4_1H9XmRNQ2JBOvV5z2kohUTfLp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614655239975-ctv4vksmp5v6pbe58b68rgc1ajil6cf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614655239975-1ll3ddj3aq723cgpg8rfn28l1pprtuuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pamaco.wallet"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8442661833825452~4577705849"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614655239975:android:6c29c0a198df8633fd6b02",
+        "android_client_info": {
+          "package_name": "com.pamaco.wallet.plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614655239975-ctv4vksmp5v6pbe58b68rgc1ajil6cf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQlR4_1H9XmRNQ2JBOvV5z2kohUTfLp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614655239975-ctv4vksmp5v6pbe58b68rgc1ajil6cf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614655239975-1ll3ddj3aq723cgpg8rfn28l1pprtuuq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pamaco.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
